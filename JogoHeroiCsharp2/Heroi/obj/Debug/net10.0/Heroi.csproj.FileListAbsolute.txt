@@ -1,0 +1,15 @@
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/obj/Debug/net10.0/Heroi.GeneratedMSBuildEditorConfig.editorconfig
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/obj/Debug/net10.0/Heroi.AssemblyInfoInputs.cache
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/obj/Debug/net10.0/Heroi.AssemblyInfo.cs
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/obj/Debug/net10.0/Heroi.csproj.CoreCompileInputs.cache
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/obj/Debug/net10.0/Heroi.sourcelink.json
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/bin/Debug/net10.0/Heroi
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/bin/Debug/net10.0/Heroi.deps.json
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/bin/Debug/net10.0/Heroi.runtimeconfig.json
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/bin/Debug/net10.0/Heroi.dll
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/bin/Debug/net10.0/Heroi.pdb
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/obj/Debug/net10.0/Heroi.dll
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/obj/Debug/net10.0/refint/Heroi.dll
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/obj/Debug/net10.0/Heroi.pdb
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/obj/Debug/net10.0/Heroi.genruntimeconfig.cache
+/home/machine/Documentos/BOOTCAMP BLIP LÓGICA DE PROGRAMAÇÃO/escrevendo-as-classes-de-um-jogo/JogoHeroiCsharp2/Heroi/obj/Debug/net10.0/ref/Heroi.dll
