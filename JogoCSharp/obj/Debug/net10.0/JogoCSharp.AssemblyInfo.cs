@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JogoCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e1d87a38f7773f97a7691d9a8531662913f0945")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18580faabeb5b0feb98f5ed253e2ef993fe1ff28")]
 [assembly: System.Reflection.AssemblyProductAttribute("JogoCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JogoCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
