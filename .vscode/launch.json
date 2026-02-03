@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JogoApplication",
+            "request": "launch",
+            "mainClass": "com.example.ClasseDoHeroi.JogoApplication",
+            "projectName": "ClasseDoHeroi"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-HeroiApp<ClasseDoHeroi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.ClasseDoHeroi.HeroiApp",
+            "projectName": "ClasseDoHeroi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

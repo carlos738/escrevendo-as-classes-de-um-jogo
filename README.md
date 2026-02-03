@@ -209,5 +209,5 @@ JS	heroi.js	node heroi.js
 
     Em JavaScript, roda com node.
 
-👉 Quer que eu monte também um guia de instalação das ferramentas (JDK, Python, .NET SDK e Node.js) para que você consiga rodar cada versão no seu computador sem dificuldades?
-
+## Comando usado para acessar o localhost do projeto ClasseDoHeroi em java
+http://localhost:8080/heroi/atacar?nome=Merlin&idade=150&tipo=mago
