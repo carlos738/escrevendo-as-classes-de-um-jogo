@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "escrevendo-as-classes-de-um-jogo_140a60d5"
+        },
+        {
+            "type": "java",
             "name": "JogoApplication",
             "request": "launch",
             "mainClass": "com.example.ClasseDoHeroi.JogoApplication",
