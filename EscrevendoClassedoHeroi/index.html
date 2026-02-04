@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo de Heróis</title>
+</head>
+
+<body>
+    <h1>Lista de Heróis</h1>
+    <table border="1" id="tabela">
+        <tr>
+            <th>Home</th>
+            <th>Idade</th>
+            <th>Tipo</th>
+            <th>Ação</th>
+        </tr>
+    </table>
+    <p id="resultado"></p>
+
+    <script>
+        const BASE_URL = "http/;//localhost:5000/api/herois";
+
+        async function carregarHerois() {
+            const res = await fetch(BASE_URL);
+            const herois = await res.json();
+            const tabela = document.getElementById("tabela");
+
+            herois.forEach(h => {
+                const linha = document.createElement("tr");
+                linha.innerHTML = `
+                <td>${h.name}</td>
+                <td>${h.idade}</td>
+                <td>${h.tipo}</td>
+                <td><button onnclick="atacar('${h.nome}')">Atacar</button></td>
+                `;
+                tabela.appendChild(linha);
+            });
+        }
+        async function atacar() {
+            const res = await fetch(`${BASE_URL}/atacar/${nome}`);
+            const data = await res.text();
+            document.getElementById("resultado").innerText = data;
+        }
+        carregarHerois();
+    </script>
+</body>
+
+</html>
